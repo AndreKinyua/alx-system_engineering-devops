@@ -1,1 +1,1 @@
-Moving file to  my first directory
+Deletes betty in my frist directory
