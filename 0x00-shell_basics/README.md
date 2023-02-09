@@ -1,1 +1,1 @@
-Delete files starting with ~
+Directory tree
