@@ -1,1 +1,1 @@
-Shows type of file
+symbolic link
