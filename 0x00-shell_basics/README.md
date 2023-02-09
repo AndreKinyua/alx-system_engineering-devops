@@ -1,1 +1,1 @@
-Upper case
+Delete files starting with ~
