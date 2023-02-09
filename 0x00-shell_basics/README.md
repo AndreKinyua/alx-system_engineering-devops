@@ -1,1 +1,1 @@
-Deltes my first directory from tmp
+Moves to previous directory
