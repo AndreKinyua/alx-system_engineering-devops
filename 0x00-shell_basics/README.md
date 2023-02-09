@@ -1,1 +1,1 @@
-Deletes betty in my frist directory
+Deltes my first directory from tmp
