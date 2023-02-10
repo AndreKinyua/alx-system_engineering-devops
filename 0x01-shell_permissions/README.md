@@ -1,1 +1,1 @@
-Script that adds execute permission to all
+Script that gives execute permissions to only other users:
