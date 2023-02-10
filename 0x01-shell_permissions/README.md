@@ -1,1 +1,1 @@
-Script that prints userid
+Script that prints groups the user is part of
