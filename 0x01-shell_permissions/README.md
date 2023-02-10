@@ -1,1 +1,1 @@
-Script that changes user to betty
+Script that prints userid
