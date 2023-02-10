@@ -1,1 +1,1 @@
-Listing files separated by commas
+Create a script that switches the current user to the user
