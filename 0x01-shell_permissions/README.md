@@ -1,1 +1,1 @@
-Script that prints groups the user is part of
+Script that changes user of file hello to betty
