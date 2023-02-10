@@ -1,1 +1,1 @@
-Script that creates directory with permissions 751
+Script that changes group of file school to hello
