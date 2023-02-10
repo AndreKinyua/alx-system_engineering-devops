@@ -1,1 +1,1 @@
-Script for symbolic link
+Script that changes ownership from guillaume
