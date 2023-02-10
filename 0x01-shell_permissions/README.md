@@ -1,1 +1,1 @@
-Script that changes group of file school to hello
+script that changes ownership to vincent and staff for all working directories
